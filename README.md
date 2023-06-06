@@ -39,11 +39,6 @@ Ich werde den Lernprozess in mehrere Schritte unterteilen:
     - Ergebnisse dokumentieren
     - Lernprozess reflektieren und präsentieren
 
-## Mitmachen
-
-Fühlen Sie sich frei, an diesem Projekt teilzunehmen und die Übungen durchzuführen. Sie können den Code in meinem Repository finden und Ihre Ergebnisse mit anderen teilen. Wenn Sie Fragen haben oder Unterstützung benötigen, zögern Sie nicht, mich zu kontaktieren.
-
-Ich hoffe, dass ich durch dieses Projekt ein besseres Verständnis für Klassifikation und Metriken gewinne und meine Fähigkeiten in diesem Bereich weiterentwickeln kann!
 
 
 
