@@ -1,6 +1,5 @@
 # 📚 O'Reilly Buch Übungen
 
-Im folgenden Projekt bringe ich mir selbst bei, wie Klassifizierung funktioniert und was die Metriken bedeuten.
 
 ## Projektbeschreibung
 
